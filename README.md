@@ -1,5 +1,3 @@
-# app_25_hillel
-
 ## Project setup
 ```
 npm install
